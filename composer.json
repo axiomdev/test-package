@@ -1,0 +1,15 @@
+{
+    "name": "benjamin/test-package",
+    "autoload": {
+        "psr-4": {
+            "Benjamin\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin",
+            "email": "benjamin@hellomojito.com"
+        }
+    ],
+    "require": {}
+}
